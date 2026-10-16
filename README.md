@@ -117,7 +117,6 @@ python JG_MSC.py \
     --meta_root ./features_mocov3_aligned_16shot/fine_grained \
     --mocov3_ckpt /path/to/r-50-1000ep.pth.tar \
     --patch_variant on \
-    
 ```
 
 ## Acknowledgements
