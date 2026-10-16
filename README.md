@@ -121,7 +121,7 @@ python JG_MSC.py \
 
 ## Acknowledgements
 
-This repo benefits from [ECALP]([Yushu-Li/ECALP: [ICLR 2025\] Official repository for “Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model”](https://github.com/Yushu-Li/ECALP)). Thanks for their excellent works.
+This repo benefits from [ECALP](https://github.com/Yushu-Li/ECALP). Thanks for their excellent works.
 
 ## Contact
 
