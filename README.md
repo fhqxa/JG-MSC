@@ -4,7 +4,7 @@
 
 - **Attribute Knowledge Integration (AKI)** removes unreliable descriptions using visual evidence from the support set and introduces the retained attributes as semantic graph nodes.
 - **Multi-Space Consensus (MSC)** identifies discriminative local regions that receive consistent support in both CLIP and auxiliary visual spaces.
-- **Joint Graph Propagation (JGP)** calibrates graph relations using structural consensus across the two representation spaces before label propagation.
+- **Joint Graph Propagation (JGP)** calibrates graph relations using structural consensus across the two representation spaces.
 
 <p align="center">
   <img src="framework.png" width="95%" alt="Overview of the JG-MSC framework">
